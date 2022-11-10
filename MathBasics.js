@@ -12,3 +12,6 @@ function round(number){
     number = Math.ceil(number);
   }
 }
+/*
+*Note that you don't need the Math object to perform basic arithmetic operations.
+*/
